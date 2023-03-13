@@ -1,4 +1,4 @@
-# Inuyashabet.github.io
+# Inuyashabetx.github.io
 
 Its a website for my game(its in development)
 
